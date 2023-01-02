@@ -1,4 +1,3 @@
-//your code here
 let n = Math.floor(Math.random() * 5 + 1);
 let main = document.getElementsByTagName('main')[0];
 let images = document.querySelectorAll('img');
